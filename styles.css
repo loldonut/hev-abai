@@ -63,8 +63,8 @@ a:hover {
 .animals-description {
     margin: 0;
     padding: 0;
-    padding-left: .4rem;
-    padding-bottom: .8rem;
+    margin-left: -2rem;
+    padding-bottom: .6rem;
 }
 
 #project-link {
