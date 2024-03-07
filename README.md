@@ -2,6 +2,6 @@
 
 sana all mapanghe
 
-nasa 'animals' folder po lahat.
+All topics ay nakapaloob sa folder.
 
 [Preview the website here.](https://loldonut.github.io/hev-abai/)
