@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+dl,
+dt {
+    margin: 4px;
+}
+
+#animalpic {
+    position: relative;
+    margin: 16;
+}
+
+#animal-name {
+    font-size: 14px;
+}
+
+#animal-description {
+    font-size: 12px;
+}
